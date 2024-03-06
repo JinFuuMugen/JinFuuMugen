@@ -15,7 +15,7 @@
 
 ### Education and Work 👨‍💻
 
-I am currently pursuing a Master's degree in Computer Science at MIET (Moscow Institute of Electronic Technology). I work as a Java and SQL developer.
+I am currently pursuing a Master's degree in Computer Science at MIET (Moscow Institute of Electronic Technology). I work as Golang developer.
 
 ### Feel Free to Contact Me Anytime 📫
 
